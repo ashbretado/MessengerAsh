@@ -1,4 +1,4 @@
-### Messenger App - Text Messenging App Project<br>
+### Messenger App - Text Messenging App Project :envelope: <br>
 <b>Norwalk High School</b> :school: - <b>Project Lead The Way (PLTW) Computer Science</b><br>
 <b>Class:</b> Computer Science Applications (CSA) - 2nd Year (Junior)<br>
 <b>Example screenshots of my completed messenger app.</b><br><br>
