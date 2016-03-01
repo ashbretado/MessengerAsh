@@ -1,3 +1,3 @@
 # Messenger App - By Ashley Bretado
 
-![Alt text](/ashbretado/MessengerAsh/Capture.jpg "Optional Title")
+![Alt text](/ashbretado/MessengerAsh/Capture.JPG "Optional Title")
