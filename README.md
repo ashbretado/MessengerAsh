@@ -5,5 +5,5 @@
 <b>Messenger App Start Screen</b>&nbsp;&nbsp;:octocat:<br><br>
 ![Alt text](https://github.com/ashbretado/MessengerAsh/blob/master/Capture.JPG "Start Screen")
 <br><br>
-<b>Message Screen</b>&nbsp;&nbsp;:writing:<br><br>
+<b>Message Screen</b>&nbsp;&nbsp;:pencil and paper:<br><br>
 ![Alt text](https://github.com/ashbretado/MessengerAsh/blob/master/Capture2.JPG "Message Screen")
